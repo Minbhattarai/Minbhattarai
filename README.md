@@ -1,7 +1,6 @@
              hi folks,I’m MIN PRASAD BHATTARAI
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: Min
 - ⚡ Fun fact: Quick Learner
 
